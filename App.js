@@ -7,7 +7,7 @@ import PreparingOrderScreen from './screens/PreparingOrderScreen';
 import DeliveryScreen from './screens/DeliveryScreen';
 import { store } from './store'
 import { Provider } from 'react-redux'
-
+import 'react-native-url-polyfill/auto';
 
 const Stack = createNativeStackNavigator();
 

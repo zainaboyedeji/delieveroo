@@ -2,14 +2,15 @@
   "expo": {
     "name": "deliveroo",
     "slug": "deliveroo",
+    "description": "na zee run am",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splash.jpeg",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "green"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
